@@ -2,7 +2,7 @@ pragma solidity 0.8.7;
 
 contract SimpleStorage {
     
-    // This will get initialized to 0!
+    // This will get initialized to 0
     uint256 favoriteNumber;  
     bool favoriteBool;
 
